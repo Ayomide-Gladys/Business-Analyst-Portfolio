@@ -8,10 +8,6 @@ Before proposing a solution, diagnose *why* the current cash-based process fails
 ## 1. Current State (AS-IS) Process
 The existing transaction flow was mapped step by step: verbal price negotiation → cash handed over → manual change-making → no receipt issued → no record kept → manual end-of-day reconciliation. Every step in that chain was a manual, error-prone, and time-consuming touchpoint with no digital record at the end of it.
 
-🗺️ *Screenshot of the AS-IS/TO-BE process maps from Miro:*
-`![Process Map](<img width="893" height="365" alt="image" src="https://github.com/user-attachments/assets/f2b6e1a7-d6f0-41ec-881e-9e198e22ba68" />
-)`
-
 **Live, interactive board:** [View on Miro](https://miro.com/app/board/uXjVH7Mf2u0=/?share_link_id=328916907233) *(replace with your own board link if it changes)*
 
 ## 2. Root Cause Analysis (5 Whys)
