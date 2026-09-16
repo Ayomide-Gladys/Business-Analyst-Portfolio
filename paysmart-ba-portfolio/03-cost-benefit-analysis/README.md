@@ -2,8 +2,8 @@
 
 **Technique:** Cost-benefit analysis with ROI and payback period modeling, built across one-time costs, recurring costs, and multi-stream revenue projections
 
-📊 *Screenshot of the cost-benefit Excel sheet:*
-`![Cost-Benefit Analysis](cost-benefit-analysis.png)`
+📊 *View the cost-benefit Excel sheet:*
+`![Cost-Benefit Analysis](https://docs.google.com/spreadsheets/d/1HnETuP6UEYl-s2aixtq-6tkOURtzB7kJ87Y-4T3tVrY/edit?usp=drivesdk)`
 
 ## Objective
 Answer the question every sponsor and investor asks before funding a project: is this worth it, and when do we see a return?
