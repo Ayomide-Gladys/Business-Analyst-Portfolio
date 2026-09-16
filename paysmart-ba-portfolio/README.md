@@ -1,5 +1,5 @@
 # PaySmart Nigeria — Digital Payment Platform
-### A Business Analysis Capstone Project 
+### A Business Analysis Capstone Project - Group Lead
 
 This repository documents the end-to-end business analysis for **PaySmart**, a proposed USSD- and app-based digital payment platform designed to bring 40+ million cash-dependent informal traders in Nigeria into the formal financial system.
 
@@ -43,7 +43,14 @@ This portfolio documents each deliverable directly in writing — no Word/Excel 
 - Projected to reach **10,387 monthly active traders** and **₦318.5M in Gross Transaction Value** by month 12
 - **98.1% transaction success rate**, against a 95% target
 
-## Methods & Techniques Demonstrated
+## 🛠️ Tools & Technologies
+
+- **Google Docs** — requirements documentation, process narratives, risk and test case tables
+- **Microsoft Excel** — 3-year cost-benefit model, ROI and payback period calculations, pivot tables
+- **Miro** — AS-IS/TO-BE process mapping and value chain diagrams
+- **GitHub** — version control and portfolio publishing
+
+## 📐 Methodologies
 
 - Stakeholder analysis & power/interest mapping
 - MoSCoW prioritization
