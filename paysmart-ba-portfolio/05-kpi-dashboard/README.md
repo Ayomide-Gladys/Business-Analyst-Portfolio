@@ -2,8 +2,8 @@
 
 **Technique:** KPI definition and target-setting, 12-month performance simulation, and RAG (Red/Amber/Green) status scorecard reporting
 
-📊 *Add your dashboard screenshot here, e.g.:*
-`![KPI Dashboard](kpi-dashboard.png)`
+📊 *View KPI dashboard here*
+[KPI Dashboard](https://docs.google.com/spreadsheets/d/1fS2zd1A360j1n_QtKTttnsGOyp234Br1/edit?usp=drivesdk&ouid=109297106390182001043&rtpof=true&sd=true)
 
 ## Objective
 Define, upfront, how success would actually be measured after launch — then track performance against those targets rather than reporting numbers with no benchmark.
