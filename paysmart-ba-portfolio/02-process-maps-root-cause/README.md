@@ -8,7 +8,7 @@ Before proposing a solution, diagnose *why* the current cash-based process fails
 ## 1. Current State (AS-IS) Process
 The existing transaction flow was mapped step by step: verbal price negotiation → cash handed over → manual change-making → no receipt issued → no record kept → manual end-of-day reconciliation. Every step in that chain was a manual, error-prone, and time-consuming touchpoint with no digital record at the end of it.
 
-**Live, interactive board:** [View on Miro](https://miro.com/app/board/uXjVH7Mf2u0=/?share_link_id=328916907233) 
+**Live, interactive board:** [View AS-IS Map on Miro](https://miro.com/app/board/uXjVH7Mf2u0=/?share_link_id=328916907233) 
 ## 2. Root Cause Analysis (5 Whys)
 Three core problems were each traced back to a root cause by asking "why" repeatedly, rather than treating the first visible symptom as the real issue:
 
